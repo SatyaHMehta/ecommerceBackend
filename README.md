@@ -1,5 +1,5 @@
 
-# README.md generator
+# e-commerce backend
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,15 +10,15 @@
 - [Questions](#Questions)
 - [License](#License)
 ## Description
-The goal of the project is to create a dynamic app that creates a readme.md file.
+This app is a back end app for an e-commerce site. It allows the client to add, update, edit and delete various items. 
 ## Usage
-The user can generate the readme.md file dynamicly using this app.
+The client can use this dynamically changing database to keep tack of their items. The app allows the user to add an item in multiple quantities, each with its unique set of id's. The client can look up the inventory and add, edit, and delete any item. 
 ## Installation
-You simply transport utils and index.js files along with node modules along with your web folder.
+To download the application, visit my git reposotory to download my repo. 
 ## Contributing
 Satya Mehta
 ## Questions
-satu101@yahoo.com
+satya.h.mehta@gmail.com
 SatyaHMehta
 ## License
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
